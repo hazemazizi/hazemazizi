@@ -28,11 +28,12 @@
 
 **Databases:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)  
 
 **DevOps & Cloud 🚧 (In Progress):**  
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)  
 
-**Research & AI 🚧 (In Progress):**  
+**Research & AI:**  
 ![Optimization](https://img.shields.io/badge/Optimization-FF6F61?style=flat)  
 ![Metaheuristics](https://img.shields.io/badge/Metaheuristics-FF6F61?style=flat)  
 ![AI Security](https://img.shields.io/badge/AI%20Security-FF6F61?style=flat)  
