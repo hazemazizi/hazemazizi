@@ -7,7 +7,7 @@
 <table style="background-color: #E6F0FA; padding: 15px; border: 1px solid #D3E4F9;">
   <tr>
     <td>
-      💻 I’m a <strong>full-stack developer</strong> obsessed with building <em>slick web apps</em> and cracking tough <strong>optimization challenges</strong>. I thrive where <code>code meets chaos</code>—working with tools like <strong>Spring Boot</strong>, <strong>Angular</strong>, <strong>MongoDB</strong>, and a sprinkle of <strong>AI-driven security</strong>. When I’m not coding, you’ll find me diving deep into <strong>operations research</strong>, solving scheduling mysteries with <em>genetic algorithms</em> and <em>metaheuristics</em>. 🧠
+      💻 I’m a <strong>full-stack developer</strong> obsessed with building <em>slick web apps</em> and cracking tough <strong>optimization challenges</strong>. I thrive where <code>code meets chaos</code>—working with tools like <strong>Spring Boot</strong>, <strong>Angular</strong>, <strong>MongoDB</strong>,<strong>Git</strong> and a sprinkle of <strong>AI-driven security</strong>. When I’m not coding, you’ll find me diving deep into <strong>operations research</strong>, solving scheduling mysteries with <em>genetic algorithms</em> and <em>metaheuristics</em>. 🧠
       <br><br>
       🔥 Right now, I’m working on <strong>TimeForge</strong>—a cutting-edge project management tool with real-time tracking, AI-powered security, and features to boost your team’s productivity. I’m also geeking out over <strong>Flow-Shop Scheduling Problems (FSSP)</strong>, benchmarking and optimizing solutions like a pro. Let’s build something amazing together! 🚀
     </td>
@@ -35,7 +35,7 @@
 **DevOps & Cloud 🚧 (In Progress):**  
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)  
 
-**Research & AI:**  
+**Research & AI 🚧 (In Progress):** 
 ![Optimization](https://img.shields.io/badge/Optimization-FF6F61?style=flat)  
 ![Metaheuristics](https://img.shields.io/badge/Metaheuristics-FF6F61?style=flat)  
 ![AI Security](https://img.shields.io/badge/AI%20Security-FF6F61?style=flat)  
@@ -46,7 +46,6 @@
 - **Operations Research**: Benchmarking exact and approximation algorithms for Flow-Shop Scheduling. (Scheduling nerds, unite!)  
 
 ## 🎯 Goals & Quests
-- Evolving **TimeForge** from a monolith to a microservices beast for its AI goodies.  
 - Leveling up my metaheuristic game for scheduling domination.  
 - Supercharging AI-based behavioral auth for bulletproof security.  
 
