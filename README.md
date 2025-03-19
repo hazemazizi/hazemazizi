@@ -1,5 +1,7 @@
+
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/600ea39f-d975-4d86-afb8-db6500309142)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/terminal-animation.gif" alt="Terminal Animation" />
+ <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/terminal-animation.gif" alt="Terminal Animation" />
 </p>
 
 # 🚀 Hey, I’m Hazem Azizi!
