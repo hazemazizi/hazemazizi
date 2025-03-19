@@ -4,9 +4,13 @@
 
 # 🚀 Hey, I’m Hazem Azizi!
 
-I’m a full-stack dev with a passion for crafting slick web apps and tackling optimization puzzles. I live at the intersection of code and chaos—think Spring Boot, Angular, MongoDB, and a dash of AI-driven security. When I’m not slinging code, I’m deep in operations research, unraveling scheduling mysteries with genetic algorithms and metaheuristics.
+---
 
-Right now, I’m building **TimeForge**—a next-level project management tool packed with real-time tracking, AI-powered security, and productivity vibes. Plus, I’m nerding out on Flow-Shop Scheduling Problems (FSSP) to benchmark and optimize like a boss.
+> **I’m a full-stack dev with a passion for crafting slick web apps and tackling optimization puzzles. I live at the intersection of code and chaos—think Spring Boot, Angular, MongoDB, and a dash of AI-driven security. When I’m not slinging code, I’m deep in operations research, unraveling scheduling mysteries with genetic algorithms and metaheuristics.**
+>
+> **Right now, I’m building TimeForge—a next-level project management tool packed with real-time tracking, AI-powered security, and productivity vibes. Plus, I’m nerding out on Flow-Shop Scheduling Problems (FSSP) to benchmark and optimize like a boss.**
+
+---
 
 ## 🛠 Skills & Tools
 
@@ -25,7 +29,7 @@ Right now, I’m building **TimeForge**—a next-level project management tool p
 **Databases:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
 
-**DevOps & Cloud:**  
+**DevOps & Cloud 🚧 (In Progress):**  
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)  
 
 **Research & AI:**  
