@@ -1,4 +1,8 @@
-# 🚀 Hey, I’m [Azizi Hazem]!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/terminal-animation.gif" alt="Terminal Animation" />
+</p>
+
+# 🚀 Hey, I’m Hazem Azizi!
 
 I’m a full-stack dev with a passion for crafting slick web apps and tackling optimization puzzles. I live at the intersection of code and chaos—think Spring Boot, Angular, MongoDB, and a dash of AI-driven security. When I’m not slinging code, I’m deep in operations research, unraveling scheduling mysteries with genetic algorithms and metaheuristics.
 
@@ -39,7 +43,12 @@ Right now, I’m building **TimeForge**—a next-level project management tool p
 - Leveling up my metaheuristic game for scheduling domination.  
 - Supercharging AI-based behavioral auth for bulletproof security.  
 
-## 🤝 Let’s Build Something Epic!
-Got a wild idea about full-stack dev, AI security, or optimization? Hit me up! I’m always down to geek out, collaborate, or just swap war stories from the code trenches.  
+## 📫 Connect with Me!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizi-hazem-60aa3825b/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hazemazizi2/)  
+[![Codepen](https://img.shields.io/badge/-Codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/hazemazizi)  
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/hazemazizi)  
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/dungoin)
 
 🚀 **Drop a star, fork a repo, or say hi!**
