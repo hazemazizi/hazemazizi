@@ -4,13 +4,15 @@
 
 # 🚀 Hey, I’m Hazem Azizi!
 
----
-
-> **I’m a full-stack dev with a passion for crafting slick web apps and tackling optimization puzzles. I live at the intersection of code and chaos—think Spring Boot, Angular, MongoDB, and a dash of AI-driven security. When I’m not slinging code, I’m deep in operations research, unraveling scheduling mysteries with genetic algorithms and metaheuristics.**
->
-> **Right now, I’m building TimeForge—a next-level project management tool packed with real-time tracking, AI-powered security, and productivity vibes. Plus, I’m nerding out on Flow-Shop Scheduling Problems (FSSP) to benchmark and optimize like a boss.**
-
----
+<table style="background-color: #E6F0FA; padding: 15px; border: 1px solid #D3E4F9;">
+  <tr>
+    <td>
+      💻 I’m a <strong>full-stack developer</strong> obsessed with building <em>slick web apps</em> and cracking tough <strong>optimization challenges</strong>. I thrive where <code>code meets chaos</code>—working with tools like <strong>Spring Boot</strong>, <strong>Angular</strong>, <strong>MongoDB</strong>, and a sprinkle of <strong>AI-driven security</strong>. When I’m not coding, you’ll find me diving deep into <strong>operations research</strong>, solving scheduling mysteries with <em>genetic algorithms</em> and <em>metaheuristics</em>. 🧠
+      <br><br>
+      🔥 Right now, I’m working on <strong>TimeForge</strong>—a cutting-edge project management tool with real-time tracking, AI-powered security, and features to boost your team’s productivity. I’m also geeking out over <strong>Flow-Shop Scheduling Problems (FSSP)</strong>, benchmarking and optimizing solutions like a pro. Let’s build something amazing together! 🚀
+    </td>
+  </tr>
+</table>
 
 ## 🛠 Skills & Tools
 
